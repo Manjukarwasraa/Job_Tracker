@@ -1,20 +1,20 @@
-# 💼 Job Tracker
+#  Job Tracker
 
 A full-stack Job Tracker web application that helps users manage and track their job applications efficiently.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* ➕ Add new job applications
-* 📄 View all added jobs
-* 📊 Track job details like company, role, and notes
-* 🔄 Backend APIs for managing job data
-* 🗂 Structured using MVC architecture
+*  Add new job applications
+*  View all added jobs
+*  Track job details like company, role, and notes
+*  Backend APIs for managing job data
+*  Structured using MVC architecture
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 
@@ -31,7 +31,7 @@ A full-stack Job Tracker web application that helps users manage and track their
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Job_Tracker/
@@ -48,16 +48,16 @@ Job_Tracker/
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```
 git clone https://github.com/Manjukarwasraa/Job_Tracker.git
 cd Job_Tracker
 ```
 
-### 2️⃣ Backend setup
+### 2️ Backend setup
 
 ```
 cd backend
@@ -65,7 +65,7 @@ npm install
 npm start
 ```
 
-### 3️⃣ Frontend setup
+### 3️ Frontend setup
 
 ```
 cd frontend
@@ -75,7 +75,7 @@ npm start
 
 ---
 
-## 🔗 API Endpoints
+##  API Endpoints
 
 * `POST /jobs` → Add a new job
 * `GET /jobs` → Get all jobs
@@ -84,14 +84,14 @@ npm start
 
 ---
 
-## ⚠️ Note
+##  Note
 
 * Core features like adding and viewing jobs are working.
 * Some features like job status updates and advanced workflows are currently being improved.
 
 ---
 
-## 🌱 Future Improvements
+##  Future Improvements
 
 * Add job status tracking (Applied, Interview, Selected, Rejected)
 * Improve UI/UX design
@@ -100,7 +100,7 @@ npm start
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Manju Karwasra**
 
